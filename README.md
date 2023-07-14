@@ -1,6 +1,8 @@
 # Documents
 The following are some useful documents. 
 ## CV
- [Link to CV PDF file](Abhinav_G_CV_Official.pdf)
- Master's Thesis
-
+ Here's a link to my CV. 
+ [CV](Abhinav_G_CV_Official.pdf)
+ 
+ ## Master's Thesis
+ 
